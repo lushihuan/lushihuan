@@ -1,11 +1,5 @@
 👋 Hello World! Welcome to my GitHub! My name is Shihuan Lu, and I am a Software Engineer. You are also welcome to visit [my Blog](https://lushihuan.github.io), where I share some of my thoughts and reflections.
 
-💻 Most Used Langs:<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lushihuan&size_weight=0.5&count_weight=0.5&langs_count=5)
-
-🐙 GitHub Stats:<br>
-![Taot's GitHub stats](https://github-readme-stats.vercel.app/api?username=lushihuan)
-
 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [一个仓库的Github Actions触发另一个仓库的Github Actions](https://lushihuan.github.io/%E4%B8%80%E4%B8%AA%E4%BB%93%E5%BA%93%E7%9A%84Github%20Actions%E8%A7%A6%E5%8F%91%E5%8F%A6%E4%B8%80%E4%B8%AA%E4%BB%93%E5%BA%93%E7%9A%84Github%20Actions/)
